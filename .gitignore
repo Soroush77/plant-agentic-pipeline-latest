@@ -1,0 +1,9 @@
+# secrets
+.env
+# generated from the dataset spreadsheet on first run
+papers_index.csv
+# outputs and local data
+eval_results/
+datasets/
+__pycache__/
+*.pyc

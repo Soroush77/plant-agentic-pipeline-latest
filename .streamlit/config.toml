@@ -1,0 +1,3 @@
+# Fonts that ship with Windows and render Persian well (Streamlit's default font has no Persian glyphs).
+[theme]
+font = "'Segoe UI', Tahoma, sans-serif"
