@@ -1,3 +1,7 @@
+.idea
+dataset/compendium_series/original_files
+dataset/compendium_series/extracted_data/chunks
+dataset/compendium_series/extracted_data/markdown
 # secrets
 .env
 # generated from the dataset spreadsheet on first run
